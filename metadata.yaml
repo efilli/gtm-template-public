@@ -3,3 +3,5 @@ documentation: "https://efilli.com"
 versions:
   - sha: e94e7a2215b7e9ac943bc9eaa5b441e27ddd3ecf
     changeNotes: Initial release
+  - sha: e171efa0161595fb244c67cbe39c3ced2ec63d23
+    changeNotes: update default wait_for_update value to 500ms
