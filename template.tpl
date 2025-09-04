@@ -1299,7 +1299,7 @@ function createConsentData(consent, options) {
   }
 
   if (options && options.addWaitForUpdate) {
-    consentData.wait_for_update = makeInteger(templateData.waitForUpdate) || 0;
+    consentData.wait_for_update = makeInteger(templateData.waitForUpdate) || 500;
   }
 
   for (const key in googleConsentData) {
