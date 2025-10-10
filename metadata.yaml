@@ -1,5 +1,5 @@
 homepage: "https://efilli.com"
-documentation: "https://efilli.com"
+documentation: "https://efilli.gitbook.io/efilli/genel-bilgiler-and-baslangic/efilliye-baslarken/gtm-ile-kurulum"
 versions:
   - sha: e94e7a2215b7e9ac943bc9eaa5b441e27ddd3ecf
     changeNotes: Initial release
