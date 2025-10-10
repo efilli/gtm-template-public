@@ -1,5 +1,5 @@
 homepage: "https://efilli.com"
-documentation: "https://efilli.gitbook.io/efilli/genel-bilgiler-and-baslangic/efilliye-baslarken/gtm-ile-kurulum"
+documentation: "https://efilli.gitbook.io/efilli/help-center-en/general-information-and-getting-started/setting-up-your-cmp/setup-with-google-tag-manager-gtm"
 versions:
   - sha: e94e7a2215b7e9ac943bc9eaa5b441e27ddd3ecf
     changeNotes: Initial release
